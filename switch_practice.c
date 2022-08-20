@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void) {
+int main(void) {fdgsdfklsdjfl
   int m;
   scanf("%d", &m);
   switch (m / 10) {
